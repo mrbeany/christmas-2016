@@ -8,23 +8,23 @@ It is composed, exclusively, of new lyrics to established
 public domain songs.
 
 *Mr. Beany's Bitty Band* released a free
-[Christmas 2016]<https://mrbeany.bandcamp.com/album/christmas-2016>
+[Christmas 2016](https://mrbeany.bandcamp.com/album/christmas-2016)
 album which features instrumental versions of the songs
 contained in this songbook.
             
 This would not be possible without Benjamin Bloomfield's 
-[Christmas Carols Collection]<https://github.com/bbloomf/christmas-carols>
+[Christmas Carols Collection](https://github.com/bbloomf/christmas-carols)
 available at
-[https://github.com/bbloomf/christmas-carols]<https://github.com/bbloomf/christmas-carols>
+[https://github.com/bbloomf/christmas-carols](https://github.com/bbloomf/christmas-carols)
 
 These songs were written for *Christmas 2016.*
 If you can do better, fork it from
-[https://github.com/mrbeany/christmas-2016]<https://github.com/mrbeany/christmas-2016>
+[https://github.com/mrbeany/christmas-2016](https://github.com/mrbeany/christmas-2016)
 
 ## Compiling
 
 You will need 
-[LilyPond]<http://lilypond.org/> to compile the source, `.ly`
+[LilyPond](http://lilypond.org/) to compile the source, `.ly`
 files in to PDF. It is the only dependency.
 
 To compile the songbook, go to the "book" directory and type:
